@@ -1,0 +1,3 @@
+C:/Users/kapip/CLionProjects/SPD_NEH/cmake-build-debug/CMakeFiles/SPD_NEH.dir
+C:/Users/kapip/CLionProjects/SPD_NEH/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kapip/CLionProjects/SPD_NEH/cmake-build-debug/CMakeFiles/rebuild_cache.dir
